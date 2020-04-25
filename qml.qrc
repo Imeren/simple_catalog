@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContactItem.qml</file>
+        <file>ContactList.qml</file>
+        <file>MainToolBar.qml</file>
+        <file>icons/add1.png</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>icons/Alyona.png</file>
+        <file>icons/Anya.png</file>
+        <file>icons/Milena.png</file>
+        <file>icons/user-profile.png</file>
+        <file>Header.qml</file>
+    </qresource>
+</RCC>
