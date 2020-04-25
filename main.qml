@@ -18,12 +18,12 @@ Window {
         ListElement {
             name: "Аня"
             pic: "icons/Anya.png"
-            condition: "Hey there! I am using WhatsApp"
+            condition: "На связи."
         }
         ListElement {
             name: "Алёна"
             pic: "icons/Alyona.png"
-            condition: "На связи."
+            condition: "Hey there! I am using WhatsApp"
         }
     }
 
