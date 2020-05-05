@@ -11,5 +11,7 @@
         <file>icons/Milena.png</file>
         <file>icons/user-profile.png</file>
         <file>Header.qml</file>
+        <file>screenshots/contact_list.png</file>
+        <file>screenshots/menu_delete.png</file>
     </qresource>
 </RCC>
