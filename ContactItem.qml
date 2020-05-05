@@ -34,6 +34,7 @@ Rectangle {
             Layout.margins: 10
         }
         ColumnLayout{
+            Layout.fillWidth: true
             Label{
                 id: label
                 Layout.fillWidth: true
@@ -42,6 +43,7 @@ Rectangle {
             // lable для отображение статуса
             Label{
                 id: status
+                Layout.fillWidth: true
                 font.bold: false
                 color: "grey"
                 text: "Всем привет! Я использую WhatsApp."
