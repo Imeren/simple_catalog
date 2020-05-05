@@ -8,6 +8,7 @@ RowLayout {
 
     RoundButton{
         leftInset: 5
+        highlighted: true
         Image {
             anchors.centerIn: parent
             width: 42
@@ -26,6 +27,7 @@ RowLayout {
         Layout.fillWidth: true
         id: textField
         selectByMouse: true
+        focus: true
     }
 
     function add(){
